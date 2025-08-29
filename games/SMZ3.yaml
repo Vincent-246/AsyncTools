@@ -2,7 +2,8 @@ SMZ3:
   local_items:
     - MoonPearl
   sm_logic: 
-    normal: 50
+    normal: 75
+    hard: 25
   sword_location:
     randomized: 10
     early: 50
